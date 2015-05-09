@@ -1,1 +1,1 @@
-A framework for a basic IRC bot which can be run as a daemon.
+A framework for a basic IRC bot.
